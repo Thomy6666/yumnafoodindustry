@@ -1,0 +1,85 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.navbar img {
+  width: 50px;
+}
+.navbar {
+  color: black;
+  background-color: green;
+}
+.navbar ul li {
+  margin-left: 5px;
+}
+.navbar ul li a {
+  color: white;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("assets/pexels-askar-abayev-6192003.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+/* .carousel-inner .carousel-item .box {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(0, 255, 42, 0.459),
+      rgba(0, 255, 42, 0.459)
+    ),
+    url("assets/Yumna\ Bakso\ Ayam.png");
+}
+.carousel-inner .carousel-item .box2 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(0, 255, 42, 0.459),
+      rgba(0, 255, 42, 0.459)
+    ),
+    url("assets/Yumna\ Bakso\ SAPI.png");
+}
+.carousel-inner .carousel-item .box3 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(0, 255, 42, 0.459),
+      rgba(0, 255, 42, 0.459)
+    ),
+    url("assets/Yumna\ Kopi.png");
+} */
+
+.produk img {
+  height: 400px;
+}
+.produk img .bakso {
+  width: 230px;
+  height: 450px;
+}
+.properti img {
+  width: 230px;
+  height: 200px;
+}
+.stuff {
+  padding-top: 50px;
+}
+.stuff img {
+  height: 300px;
+}
+footer {
+  color: white;
+  background-color: green;
+}
